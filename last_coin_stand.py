@@ -1,3 +1,4 @@
+#Author Anuraj R
 import random as rand
 import time as t
 coin=20
